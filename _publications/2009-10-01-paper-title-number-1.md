@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 1"
+title: "Making Automatic Movement Features Extraction Suitable for Non-engineer Students"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/CATS21
+excerpt: 'This paper is a software tool for automatic annotation of movement data.'
+date: 2021-10-18
+venue: 'Companion Publication of the 2021 International Conference on Multimodal Interaction'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3461615.3485398'
+citation: 'Corbellini, N. and Volpe, G., 2021, October. Making Automatic Movement Features Extraction Suitable for Non-engineer Students. In Companion Publication of the 2021 International Conference on Multimodal Interaction (pp. 153-157).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about a software tool I developed during my Master thesis. The tool aims at supporting scholars in movement sciences and performing arts in the process of annotating and extracting features from movement data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://nicorb932.github.io/files/3461615.3485398.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 
+- Harvard: Corbellini, N. and Volpe, G., 2021, October. Making Automatic Movement Features Extraction Suitable for Non-engineer Students. In Companion Publication of the 2021 International Conference on Multimodal Interaction (pp. 153-157).
+- Bibtex: @inproceedings{corbellini2021making,
+  title={Making Automatic Movement Features Extraction Suitable for Non-engineer Students},
+  author={Corbellini, Nicola and Volpe, Gualtiero},
+  booktitle={Companion Publication of the 2021 International Conference on Multimodal Interaction},
+  pages={153--157},
+  year={2021}
+}
