@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Cognitive Psychology, University of Trento, 2018 <img src='https://nicorb93.github.io/images/logo_unirento.png' width='85px' height='85px'>
+* B.S. in Cognitive Psychology, University of Trento, 2018 <img src='/images/logo_unirento.png' width='85px' height='85px'>
 * M.S. in Digital Humanities, University of Genoa, 2021 <img src='/images/logo_unige.jpg' width='85px' height='85px'>
 * Ph.D in Computer Science, University of Genoa, 2023 (expected) <img src='/images/logo_unige.jpg' width='85px' height='85px'>
 
