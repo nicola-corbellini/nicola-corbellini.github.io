@@ -20,7 +20,7 @@ Skills
 * Programming languages
   - Good level: Python, MATLAB
   - Basic level: R
-* Proficient 3D modeling with Blender
+* Proficient 3D modelling with Blender
 * Basic knowledge of Unity3D game engine and C# programming
 
 Publications
