@@ -10,7 +10,7 @@ citation: 'Corbellini, N. and Volpe, G., 2021, October. Making Automatic Movemen
 ---
 This paper is about a software tool I developed during my Master thesis. The tool aims at supporting scholars in movement sciences and performing arts in the process of annotating and extracting features from movement data.
 
-[Download paper here](http://nicorb932.github.io/files/3461615.3485398.pdf)
+[Download paper here](http://nicolacorbellini.github.io/files/3461615.3485398.pdf)
 
 Recommended citation: 
 - Harvard: Corbellini, N. and Volpe, G., 2021, October. Making Automatic Movement Features Extraction Suitable for Non-engineer Students. In Companion Publication of the 2021 International Conference on Multimodal Interaction (pp. 153-157).
