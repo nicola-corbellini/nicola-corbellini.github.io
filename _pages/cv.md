@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Cognitive Psychology, University of Trento, 2018 <img src='/images/logo_unirento.png' width='85px' height='85px'>
-* M.S. in Digital Humanities, University of Genoa, 2021 <img src='/images/logo_unige.jpg' width='85px' height='85px'>
-* Ph.D in Computer Science, University of Genoa, 2023 (expected) <img src='/images/logo_unige.jpg' width='85px' height='85px'>
+* B.S. in Cognitive Psychology, [University of Trento](https://www.cogsci.unitn.it/), 2018 <img src='/images/logo_unirento.png' width='85px' height='85px'>
+* M.S. in Digital Humanities, [University of Genoa](https://unige.it/it/), 2021 <img src='/images/logo_unige.jpg' width='85px' height='85px'>
+* Ph.D in Computer Science, [University of Genoa](https://unige.it/it/), 2023 (expected) <img src='/images/logo_unige.jpg' width='85px' height='85px'>
 
 Skills
 ======
@@ -29,18 +29,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+[//]: # (<!-- Talks)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.talks %})
+
+[//]: # (    {% include archive-single-talk-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Teaching)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.teaching %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+[//]: # (Service and leadership)
+
+[//]: # (======)
+
+[//]: # (* Currently signed in to 43 different slack teams -->)
