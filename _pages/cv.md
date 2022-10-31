@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Cognitive Psychology, [University of Trento](https://www.cogsci.unitn.it/), 2018 <img src='/images/logo_unirento.png' width='85px' height='85px'>
 * M.S. in Digital Humanities, [University of Genoa](https://unige.it/it/), 2021 <img src='/images/logo_unige.jpg' width='85px' height='85px'>
-* Ph.D in Computer Science, [University of Genoa](https://unige.it/it/), 2023 (expected) <img src='/images/logo_unige.jpg' width='85px' height='85px'>
+* Ph.D. in Computer Science, [University of Genoa](https://unige.it/it/), 2023 (expected) <img src='/images/logo_unige.jpg' width='85px' height='85px'>
 
 Skills
 ======
