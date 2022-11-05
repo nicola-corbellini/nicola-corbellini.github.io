@@ -118,10 +118,13 @@
       "@context" : "http://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
-      "url" : "{{ seo_url | jsonify }}",
+      "url" : "{{ seo_url }}",
       "sameAs" : "{{ site.social.links | jsonify }}"
     }
-  </script>
+  </script> <!--###############
+                 Ho rimosso "|jsonify" (senza virgolette), dalla key "url" perchè creava una valore con doppie virgolette
+                 (es. ""https://nicola..."" che dava errore in google search console
+                 ##############-->
 {% endif %}
 
 {% if site.google_site_verification %}
