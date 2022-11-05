@@ -9,7 +9,7 @@ paperurl: 'https://doi.org/10.1145/3536221.3557035'
 citation: 'Nicola Corbellini. 2022. Towards Human-Machine Collaboration: Multimodal Group Potency Estimation. In INTERNATIONAL CONFERENCE ON MULTIMODAL INTERACTION (ICMI 22), November 7–11, 2022, Bengaluru, India. ACM, New York, NY, USA'
 ---
 
-Doctoral Consortium paper published in the context of the International Conference on Multimodal Interaction ([ICMI 2022](https://icmi.acm.org/2022/)) illustrating the goals and stages of my PhD project. Namely, the development of a computational model of [group potency][1] a machine could be endowed with in the perspective of building [Hybrid Intelligence][2] systems.
+Doctoral Consortium paper published in the context of the International Conference on Multimodal Interaction ([ICMI 2022](https://icmi.acm.org/2022/)) illustrating the goals and stages of my PhD project. Namely, the development of a computational model of [group potency] [1] a machine could be endowed with in the perspective of building [Hybrid Intelligence] [2] systems.
 
 Recommended citation:
 - ACM: Nicola Corbellini. 2022. Towards Human-Machine Collaboration: Multimodal Group Potency Estimation. In INTERNATIONAL CONFERENCE ON MULTIMODAL INTERACTION (ICMI 22), November 7–11, 2022, Bengaluru, India. ACM, New York, NY, USA.
